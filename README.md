@@ -37,6 +37,7 @@ As I gear up to bring my skills to the professional stage, I'm looking for a pla
 - Postman <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="20" height="20"/> </a>
 
 
+
 ## 🌟 Fun Facts
 
 - Harry Potter is my favorite series.
